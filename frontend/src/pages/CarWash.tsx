@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Sparkles, Droplets, Shield, Clock } from 'lucide-react';
+import { Sparkles, Droplets, Shield } from 'lucide-react';
 
 const CarWash = () => {
   const packages = [
